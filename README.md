@@ -22,7 +22,6 @@
 
 完整的修改说明请查看：
 - [IDA9_COMPATIBILITY_CN.md](IDA9_COMPATIBILITY_CN.md) - 中文详细说明
-- [IDA9_COMPATIBILITY.md](IDA9_COMPATIBILITY.md) - English detailed documentation
 
 ## 安装
 
