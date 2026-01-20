@@ -51,12 +51,6 @@
 
 本项目遵循原项目的 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
 
-## 致谢
-
-- 原项目作者：Markus Gaasedelen
-- 原项目在 IDA 的 [2017 Plug-In Contest](https://hex-rays.com/contests_details/contest2017/) 中获得第二名
-- 原项目在 2021 Pwnie Awards 中被提名
-
 ---
 
 **原项目链接**: https://github.com/gaasedelen/lighthouse
